@@ -60,7 +60,7 @@
 </p>
 
 
-<h4>Nela temos algumas funcionalidades como pegar a localização do usuário, cadastro dos pontos de coleta, upload de imagens, integração com mapa e utilização da API do IBGE para pegar estados e municípios do Brasil.</h4>
+<h4 align="center">Nela temos algumas funcionalidades como pegar a localização do usuário, cadastro dos pontos de coleta, upload de imagens, integração com mapa e utilização da API do IBGE para pegar estados e municípios do Brasil.</h4>
 
 <h2>🔥 Um pouco sobre a aplicação Mobile:</h2>
 
@@ -71,7 +71,7 @@
 
 </p>
 
-<h4>Nela temos algumas funcionalidades como pegar a localização do usuário, visualizar os pontos de coleta mais próximos de você, utilização da API do IBGE para pegar estados e municípios do Brasil, integração com mapa, interação com Whatsapp & Email do usuário e ver detalhes sobre o ponto de coleta.</h4>
+<h4 align="center">Nela temos algumas funcionalidades como pegar a localização do usuário, visualizar os pontos de coleta mais próximos de você, utilização da API do IBGE para pegar estados e municípios do Brasil, integração com mapa, interação com Whatsapp & Email do usuário e ver detalhes sobre o ponto de coleta.</h4>
 
 
 
