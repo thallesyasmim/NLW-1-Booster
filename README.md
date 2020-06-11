@@ -26,7 +26,7 @@
 - SQLite3
 - ts-node
 
-<h2>💻 Principais bibliotecas utilizadas no front-end</h2>
+<h2>💻 Principais bibliotecas utilizadas no front-end:</h2>
 
 - Leaflet
 - React leaflet
