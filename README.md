@@ -1,6 +1,3 @@
-# NLW-1-Booster
-
-
 <p align="center">
   <img src="./web/src/assets/logo.svg" alt="Logo do Ecoleta"/>
 </p>
